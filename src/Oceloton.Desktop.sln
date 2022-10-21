@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oceloton.Domain", "Oceloton
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oceloton.Core", "Oceloton.Core\Oceloton.Core.csproj", "{70169296-236F-4DDB-B2FF-058FD379787C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oceloton.Console", "Oceloton.Console\Oceloton.Console.csproj", "{37819AA5-6B81-4BEC-B98D-858F4AD0BF38}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{70169296-236F-4DDB-B2FF-058FD379787C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70169296-236F-4DDB-B2FF-058FD379787C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70169296-236F-4DDB-B2FF-058FD379787C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37819AA5-6B81-4BEC-B98D-858F4AD0BF38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37819AA5-6B81-4BEC-B98D-858F4AD0BF38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37819AA5-6B81-4BEC-B98D-858F4AD0BF38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37819AA5-6B81-4BEC-B98D-858F4AD0BF38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
