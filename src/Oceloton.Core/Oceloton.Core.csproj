@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Oceloton.Domain\Oceloton.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
